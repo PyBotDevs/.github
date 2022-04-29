@@ -1,7 +1,15 @@
 <h1 align='center'>NKA Development Group</h1>
 
 ## Who are we?
-The development team behind [isobot](https://github.com/PyBotDevs/isobot-python) and [isobot-lazer](https://github.com/notsniped/isobot-lazer)
+We are the development team behind our Discord bots.
+
+## What do we do? 
+We create different type of Discord bots, including moderating, economy, and more. Feel free to submit your ideas via head members' Discord!
+
+## Our bots
+- [isobot](https://github.com/PyBotDevs/isobot-python)
+- [isobot-lazer](https://github.com/notsniped/isobot-lazer)
+- [iso6.9](https://github.com/archisha69/iso6.9-cogs)
 
 ### Fun facts
 - i use arch btw
@@ -9,6 +17,12 @@ The development team behind [isobot](https://github.com/PyBotDevs/isobot-python)
 ### Head members
 - [notsniped](https://github.com/notsniped)
 - [archisha69](https://github.com/archisha69)
+
+### About our repos
+# Having problem?
+Feel free to ask via creating an issue!
+# Experienced bugs and glitches?
+Report them on certain repos by creating issues!
 
 <!--
 
