@@ -1,3 +1,4 @@
+<p align='center'><img width='300px' src='https://user-images.githubusercontent.com/72265661/165966187-0642e819-6f2f-4d94-9f74-58bed48eb0f4.png'></img></p>
 <h1 align='center'>NKA Development Group</h1>
 
 ## About us...
