@@ -18,8 +18,8 @@ We create various types of Discord bots, including moderating bots, economical b
 - i use arch btw
 
 ### Head members
-- [notsniped](https://github.com/notsniped) ![Developer](https://img.shields.io/badge/-SNIPE-blueviolet?style=flat) ![Developer](https://img.shields.io/badge/-DEV-ff69b4?style=flat) ![Contributor](https://img.shields.io/badge/-Contributor-orange?style=flat)
-- [archisha69](https://github.com/archisha69) ![Developer](https://img.shields.io/badge/-DEV-ff69b4?style=flat) ![Contributor](https://img.shields.io/badge/-Contributor-orange?style=flat)
+- [notsniped](https://github.com/notsniped) ![Custom](https://img.shields.io/badge/-SNIPE-blueviolet?style=flat) ![Developer](https://img.shields.io/badge/-DEV-ff69b4?style=flat) ![Contributor](https://img.shields.io/badge/-Contributor-orange?style=flat)
+- [archisha69](https://github.com/archisha69) ![Custom](https://img.shields.io/badge/-Archisha-cyan?style=flat) ![Developer](https://img.shields.io/badge/-DEV-ff69b4?style=flat) ![Contributor](https://img.shields.io/badge/-Contributor-orange?style=flat)
 
 ## About our repositories...
 
