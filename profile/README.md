@@ -1,12 +1,12 @@
 <h1 align='center'>NKA Development Group</h1>
 
-## About us...→
+## About us...
 
 ### Who are we?
 We are a development team, we code in Python.
 
 ### What do we do? 
-We create different type of Discord bots, including moderating, economy, and more. Feel free to submit your ideas via head members' Discord!
+We create various types of Discord bots, including moderating bots, economical bots, and more. Feel free to submit your ideas via head members' Discord!
 
 ### Our bots
 - [isobot](https://github.com/PyBotDevs/isobot-python)
@@ -20,7 +20,7 @@ We create different type of Discord bots, including moderating, economy, and mor
 - [notsniped](https://github.com/notsniped)
 - [archisha69](https://github.com/archisha69)
 
-## About our repositories...→
+## About our repositories...
 
 ### Having problem?
 Feel free to ask via creating an issue in repositories or ask directly in Discord!
