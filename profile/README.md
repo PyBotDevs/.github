@@ -1,7 +1,7 @@
 <h1 align='center'>NKA Development Group</h1>
 
 ## Who are we?
-We are the development team behind our Discord bots.
+We are the development team that codes in Python.
 
 ## What do we do? 
 We create different type of Discord bots, including moderating, economy, and more. Feel free to submit your ideas via head members' Discord!
