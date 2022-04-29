@@ -3,7 +3,7 @@
 ## About us...→
 
 ### Who are we?
-We are the development team that codes in Python.
+We are a development team, we code in Python.
 
 ### What do we do? 
 We create different type of Discord bots, including moderating, economy, and more. Feel free to submit your ideas via head members' Discord!
