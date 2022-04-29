@@ -18,10 +18,10 @@ We create different type of Discord bots, including moderating, economy, and mor
 - [notsniped](https://github.com/notsniped)
 - [archisha69](https://github.com/archisha69)
 
-### About our repos
-# Having problem?
+# About our repos
+## Having problem?
 Feel free to ask via creating an issue!
-# Experienced bugs and glitches?
+## Experienced bugs and glitches?
 Report them on certain repos by creating issues!
 
 <!--
