@@ -1,6 +1,6 @@
 <h1 align='center'>NKA Development Group</h1>
 
-## About us
+## About us...→
 
 ### Who are we?
 We are the development team that codes in Python.
@@ -20,7 +20,7 @@ We create different type of Discord bots, including moderating, economy, and mor
 - [notsniped](https://github.com/notsniped)
 - [archisha69](https://github.com/archisha69)
 
-## About our repos
+## About our repositories...→
 
 ### Having problem?
 Feel free to ask via creating an issue in repositories or ask directly in Discord!
