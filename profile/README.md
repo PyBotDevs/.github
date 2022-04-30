@@ -19,7 +19,7 @@ We create various types of Discord bots, including moderating bots, economical b
 
 ### Head members
 - [notsniped](https://github.com/notsniped) ![Custom](https://img.shields.io/badge/-SNIPE-blueviolet?style=flat) ![Developer](https://img.shields.io/badge/-DEV-ff69b4?style=flat) ![Contributor](https://img.shields.io/badge/-Contributor-orange?style=flat)
-- [archisha69](https://github.com/archisha69) ![Custom](https://img.shields.io/badge/-69-00c462?style=flat) ![Developer](https://img.shields.io/badge/-DEV-ff69b4?style=flat) ![Contributor](https://img.shields.io/badge/-Contributor-orange?style=flat)
+- [archisha69](https://github.com/archisha69) ![Custom](https://img.shields.io/badge/-Archisha-00c462?style=flat) ![Developer](https://img.shields.io/badge/-DEV-ff69b4?style=flat) ![Contributor](https://img.shields.io/badge/-Contributor-orange?style=flat)
 
 ## About our repositories...
 
