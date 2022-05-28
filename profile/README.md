@@ -16,7 +16,7 @@ We create various types of Discord bots, including moderating bots, economical b
 
 ### Our rules
 - **Reduce, Reuse, and Rewrite** - notsniped
-- **Recreate, Recycle, and Refine** - archisha
+- **Recreate, Recycle, and Refine** - archisha69
 - **Rebuild, Refresh, and Reinforce** - thatOneArchUser
 
 ### Fun facts
