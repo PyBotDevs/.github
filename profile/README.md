@@ -14,6 +14,11 @@ We create various types of Discord bots, including moderating bots, economical b
 - [isobot-lazer](https://github.com/PyBotDevs/isobot-lazer)
 - [iso6.9](https://github.com/archisha69/iso6.9-cogs)
 
+### Our rules
+- **Reduce, Reuse, and Rewrite** - notsniped
+- **Reuse, Recycle, and Refine** - archisha
+- **Rebuild, Refresh, and Reinforce** - thatOneArchUser
+
 ### Fun facts
 - i use arch btw
 
