@@ -10,8 +10,7 @@ We are a development team, we code in Python.
 We create various types of Discord bots, including moderating bots, economical bots, and more. Feel free to submit your ideas via head members' Discord!
 
 ### Our bots
-- [isobot](https://github.com/PyBotDevs/isobot-python)
-- [isobot-lazer](https://github.com/PyBotDevs/isobot-lazer)
+- [isobot](https://github.com/PyBotDevs/isobot)
 - [iso6.9](https://github.com/archisha69/iso6.9-cogs)
 
 ### Our rules
