@@ -34,6 +34,8 @@ Feel free to ask via creating an issue in repositories or ask directly in Discor
 ### Experienced bugs and glitches?
 Report them on certain repositories by creating issues!
 
+***P.S: Do NOT DM notsniped on Discord if you find bugs, he will not respond to such DMs instantly. Please make a GitHub issue instead.***
+
 <!--
 
 **Here are some ideas to get you started:**
