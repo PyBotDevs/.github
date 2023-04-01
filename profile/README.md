@@ -25,7 +25,7 @@ We create various types of Discord bots, including moderating bots, economical b
 ### Head members
 - [notsniped](https://github.com/notsniped) ![Custom](https://img.shields.io/badge/-SNIPE-blueviolet?style=flat) ![Developer](https://img.shields.io/badge/-DEV-ff69b4?style=flat) ![Contributor](https://img.shields.io/badge/-Contributor-orange?style=flat) ![Idiot](https://img.shields.io/badge/-dumbass%20who%20goes%20to%20school-yellow?style=flat)
 - [archisha69](https://github.com/archisha69) ![Custom](https://img.shields.io/badge/-Archisha-00c462?style=flat) ![Developer](https://img.shields.io/badge/-DEV-ff69b4?style=flat) ![Contributor](https://img.shields.io/badge/-Contributor-orange?style=flat) ![iso6.9](https://img.shields.io/badge/-iso6.9%20dev-00c462?style=flat)
-- [thatOneArchUser](https://github.com/thatOneArchUser) ![Custom](https://img.shields.io/badge/-i%20use%20arch%20btw-cyan?style=flat) ![Developer](https://img.shields.io/badge/-DEV-ff69b4?style=flat) ![Developer](https://img.shields.io/badge/-LEGACY%20ISOBOT%20DEV-blue?style=flat) ![Mafs](https://img.shields.io/badge/-mafs%20guy-darkblue?style=flat)
+- [hairyballtheorem](https://github.com/hairyballtheorem) ![Custom](https://img.shields.io/badge/-i%20use%20arch%20btw-cyan?style=flat) ![Developer](https://img.shields.io/badge/-DEV-ff69b4?style=flat) ![Developer](https://img.shields.io/badge/-LEGACY%20ISOBOT%20DEV-blue?style=flat) ![Mafs](https://img.shields.io/badge/-mafs%20guy-darkblue?style=flat)
 
 ## About our repositories...
 
