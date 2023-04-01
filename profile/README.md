@@ -12,6 +12,7 @@ We create various types of Discord bots, including moderating bots, economical b
 ### Our bots
 - [isobot](https://github.com/PyBotDevs/isobot)
 - [iso6.9](https://github.com/archisha69/iso6.9-cogs)
+- [Codebot](https://github.com/PyBotDevs/Codebot)
 
 ### Our rules
 - **Reduce, Reuse, and Rewrite** - notsniped
